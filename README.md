@@ -10,17 +10,17 @@ suntool offers an easy-to-use, no-code, fully visual toolkit for Solana users.
 One-stop management of the Solana token listing process
 
 官网：https://www.suntool.cc/
-Official Website: https://www.foxtool.cc/
+Official Website: https://www.suntool.cc/
 
 ![image](/image/home.jpg)
 
 一键发币
 Token Creation
-创建代币：https://www.foxtool.cc/create
-Create Token: https://www.foxtool.cc/create
+创建代币：https://www.suntool.cc/create
+Create Token: https://www.suntool.cc/create
 
-批量转账工具： https://www.foxtool.cc/multiSender
-Multi Transfer Tools： https://www.foxtool.cc/multiSender
+批量转账工具： https://www.suntool.cc/multiSender
+Multi Transfer Tools： https://www.suntool.cc/multiSender
 
 放弃铸币权：
 Renounce Minting Authority:
@@ -35,8 +35,8 @@ Liquidity Management
 流动性移除
 Remove Liquidity Management
 
-创建openbook市场ID：https://www.foxtool.cc/market
-Create Openbook MarketId: https://www.foxtool.cc/market
+创建openbook市场ID：https://www.suntool.cc/market
+Create Openbook MarketId: https://www.suntool.cc/market
 
 钱包管理：
 Wallet Management:
