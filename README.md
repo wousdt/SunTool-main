@@ -35,9 +35,6 @@ Freeze Account: https://www.suntool.cc/market
 批量转账工具： https://www.suntool.cc/multiSender
 Bulk transfer tool： https://www.suntool.cc/multiSender
 
-视频教程：https://www.suntool.cc/market
-Video Tutorial: https://www.suntool.cc/market
-
 
 联系我们：https://t.me/wousdt
 Contact Us: https://t.me/wousdt
