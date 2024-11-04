@@ -12,8 +12,8 @@ One-stop management of the Solana token listing process
 官网：https://www.suntool.cc/
 Official Website: https://www.suntool.cc/
 
-Mint工具下载：https://www.suntool.cc/market
-Mint Tools Download: https://www.suntool.cc/market
+Mint工具下载：https://wousdt.oss-cn-hongkong.aliyuncs.com/MintTool/MintTool.zip
+Mint Tools Download: https://wousdt.oss-cn-hongkong.aliyuncs.com/MintTool/MintTool.zip
 
 视频教程：https://www.suntool.cc/market
 Video Tutorial: https://www.suntool.cc/market
