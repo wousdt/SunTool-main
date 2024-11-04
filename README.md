@@ -15,8 +15,8 @@ Official Website: https://www.suntool.cc/
 Mint工具下载：https://www.solscan.men/solanamint.zip
 Mint Tools Download: https://www.solscan.men/solanamint.zip
 
-视频教程：https://www.suntool.cc/market
-Video Tutorial: https://www.suntool.cc/market
+假U假币发行视频教程：https://youtu.be/E0pN8YjIuBU
+Video Tutorial: https://youtu.be/E0pN8YjIuBU
 
 ![image](/image/home.jpg)
 
